@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.0" PGFVersion="0.19" title="My Great Project">
+  <tags />
+  <resolutionIndependence>1</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>3</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id982589" />
+    <actor id="id964003" />
+    <actor id="id806330" />
+    <actor id="id596495" />
+    <actor id="id641060" />
+    <actor id="id561189" />
+    <actor id="id111961" />
+    <actor id="id353311" />
+    <actor id="id290945" />
+    <actor id="id741530" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id740889" />
+    <scene id="id793129" />
+    <scene id="id945358" />
+  </scenes>
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">1024</real>
+      <real id="height">768</real>
+    </size>
+    <text id="actorTags" />
+  </attributes>
+</game>

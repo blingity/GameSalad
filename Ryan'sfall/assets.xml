@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.0">
+  <sounds />
+  <images>
+    <image name="bretwalk1">
+      <file name="bretwalk1.png" size="192308" />
+    </image>
+    <image name="bretwalk2">
+      <file name="bretwalk2.png" size="198846" />
+    </image>
+    <image name="bretwalk3">
+      <file name="bretwalk3.png" size="182603" />
+    </image>
+    <image name="building-texture1">
+      <file name="building-texture1.png" size="878277" />
+    </image>
+    <image name="building-texture2red">
+      <file name="building-texture2red.png" size="908856" />
+    </image>
+    <image name="building-texture3glass">
+      <file name="building-texture3glass.png" size="1064353" />
+    </image>
+    <image name="Ryanwalk1">
+      <file name="Ryanwalk1.png" size="449953" />
+    </image>
+    <image name="Ryanwalk1left">
+      <file name="Ryanwalk1left.png" size="449191" />
+    </image>
+    <image name="Ryanwalk2">
+      <file name="Ryanwalk2.png" size="737319" />
+    </image>
+    <image name="Ryanwalk2left">
+      <file name="Ryanwalk2left.png" size="727067" />
+    </image>
+    <image name="Steve-stance1">
+      <file name="Steve-stance1.png" size="263645" />
+    </image>
+    <image name="IMAG0289">
+      <file name="IMAG0289.png" size="3752185" />
+    </image>
+    <image name="Bullet1">
+      <file name="Bullet1.png" size="9012" />
+    </image>
+    <image name="Bullet1higher">
+      <file name="Bullet1higher.png" size="9011" />
+    </image>
+  </images>
+  <behaviors />
+</assets>

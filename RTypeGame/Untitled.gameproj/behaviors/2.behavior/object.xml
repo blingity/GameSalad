@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.19" id="id580107" class="DestroyAction" GSCVersion="0.10.2" enabled="true"><attributes><text id="name">destroyShip</text><text id="bundleName">Destroy.behavior</text></attributes></behavior>
